@@ -1,8 +1,21 @@
-# React + Vite
+<a href="https://borakarayel.github.io/bookingclone/"> Go to Page
+</a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BookingClone Website
 
-Currently, two official plugins are available:
+Welcome to the BookingClone website! This is a clone of a booking platform designed to help users find and book accommodations, flights, and activities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+
+HTML: Used for creating the structure and content of the web pages.
+CSS: Used for styling and layout design, ensuring an attractive and intuitive user interface.
+JavaScript (ReactJS): Implemented interactive elements and dynamic content for a user-friendly experience.
+GitHub Pages: Hosts the website, making it accessible to the public.
+
+Contributing
+
+Contributions and feedback are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
